@@ -1,0 +1,25 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "removeComments": true,
+        "sourceMap": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "allowJs": true,
+        "experimentalDecorators": true,
+        "outDir": "./dist",
+        "jsx": "preserve"
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "app.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "out",
+        "test"
+    ]
+}
