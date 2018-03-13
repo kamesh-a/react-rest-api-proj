@@ -19,6 +19,7 @@
 11. ES2017 (`async await, fetch`) 
 12. Backend (Redis) 
 13. Webpack
+14. React-Bootstrap ( Responsive )  
 
 ### Things not coverd
 1. Redux
